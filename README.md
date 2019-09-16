@@ -1,6 +1,6 @@
 <meta name="google-site-verification" content="tZgbB2s-hTI0IePQQRCjHqL_Vf0j_XJmehXAHJerrn4" />
 
-# ![AzureIcon] ![PowershellIcon] Microsoft Azure PowerShell
+# Microsoft Azure PowerShell
 
 This repository contains PowerShell cmdlets for developers and administrators to develop, deploy, and manage Microsoft Azure applications.
 
